@@ -4,7 +4,7 @@ build
 # dependencies
 node_modules
 
-# VSCode
+# VS Code
 .vscode
 
 # Yarn
