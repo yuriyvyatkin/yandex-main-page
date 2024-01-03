@@ -5,7 +5,7 @@
   },
   "license": "Mozilla Public License 2.0",
   "repository": "https://github.com/yuriyvyatkin/yandex-main-page",
-  "homepage": "https://yuriyvyatkin.github.io/yandex-main-page",
+  "homepage": ".",
   "main": "src/index.js",
   "private": true,
   "dependencies": {
