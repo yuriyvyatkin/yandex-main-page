@@ -27,11 +27,11 @@ cd yandex-main-page
 ##### 2. Установка зависимостей
 
 ```
-yarn install
+npm install
 ```
 
 ##### 3. Запуск
 
 ```
-yarn start
+npm start
 ```
