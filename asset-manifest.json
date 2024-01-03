@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yandex-main-page/static/css/main.4b1fd731.css",
+    "main.js": "/yandex-main-page/static/js/main.5dc05a1a.js",
+    "index.html": "/yandex-main-page/index.html",
+    "main.4b1fd731.css.map": "/yandex-main-page/static/css/main.4b1fd731.css.map",
+    "main.5dc05a1a.js.map": "/yandex-main-page/static/js/main.5dc05a1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b1fd731.css",
+    "static/js/main.5dc05a1a.js"
+  ]
+}
